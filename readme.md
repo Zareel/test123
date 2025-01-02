@@ -35,7 +35,7 @@ _italics_
 - EXPRESS
 - MONGODB
 
-[Interior Design](https://z-interior-disign-landing-page.netlify.app/)
+[Live @](https://z-interior-disign-landing-page.netlify.app/)
 
 ### Screenshots
 #### This project is responsive to all types of devices
